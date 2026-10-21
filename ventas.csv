@@ -1,0 +1,201 @@
+id_venta,fecha,mes,trimestre,año,sucursal,ciudad,region,categoria,producto,vendedor,canal,metodo_pago,cantidad,precio_unitario,descuento,ventas_netas,costo,margen,satisfaccion
+1001,2024-01-05,Ene,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Laptop Pro,Ana Pérez,Presencial,Tarjeta Crédito,3,1200000,0.10,3240000,2100000,1140000,9
+1002,2024-01-08,Ene,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Sofá 3 Cuerpos,Luis González,Online,Transferencia,2,450000,0.05,855000,540000,315000,8
+1003,2024-01-10,Ene,Q1,2024,Sucursal Sur,Concepción,Biobío,Ropa,Camisa Formal,María Silva,Presencial,Tarjeta Débito,10,35000,0.00,350000,175000,175000,7
+1004,2024-01-12,Ene,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Mouse Inalámbrico,Carlos Rojas,Online,Tarjeta Crédito,25,25000,0.05,593750,375000,218750,9
+1005,2024-01-15,Ene,Q1,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Arroz 5kg,Pedro Muñoz,Presencial,Efectivo,80,8500,0.00,680000,408000,272000,8
+1006,2024-01-18,Ene,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Monitor 27",Ana Pérez,Presencial,Tarjeta Crédito,4,450000,0.10,1620000,1080000,540000,9
+1007,2024-01-20,Ene,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Mesa de Comedor,Luis González,Online,Transferencia,3,280000,0.05,798000,504000,294000,8
+1008,2024-01-22,Ene,Q1,2024,Sucursal Sur,Temuco,Araucanía,Ropa,Pantalón Jeans,María Silva,Presencial,Tarjeta Débito,12,45000,0.00,540000,270000,270000,7
+1009,2024-01-25,Ene,Q1,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Leche 1L,Carlos Rojas,Online,Efectivo,100,1200,0.00,120000,72000,48000,8
+1010,2024-01-28,Ene,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Teclado Mecánico,Pedro Muñoz,Presencial,Tarjeta Crédito,8,85000,0.10,612000,408000,204000,9
+1011,2024-02-02,Feb,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Lámpara LED,Ana Pérez,Online,Transferencia,20,25000,0.05,475000,285000,190000,8
+1012,2024-02-05,Feb,Q1,2024,Sucursal Sur,Concepción,Biobío,Ropa,Chaqueta Invierno,Luis González,Presencial,Tarjeta Débito,8,75000,0.10,540000,324000,216000,9
+1013,2024-02-08,Feb,Q1,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Aceite 1L,María Silva,Online,Efectivo,60,3500,0.00,210000,126000,84000,7
+1014,2024-02-10,Feb,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Audífonos BT,Carlos Rojas,Presencial,Tarjeta Crédito,15,30000,0.05,427500,225000,202500,9
+1015,2024-02-12,Feb,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Silla Ergonómica,Pedro Muñoz,Online,Transferencia,5,180000,0.10,810000,486000,324000,8
+1016,2024-02-15,Feb,Q1,2024,Sucursal Sur,Temuco,Araucanía,Ropa,Zapatillas Deportivas,Ana Pérez,Presencial,Tarjeta Débito,10,55000,0.00,550000,300000,250000,9
+1017,2024-02-18,Feb,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Laptop Pro,Luis González,Online,Tarjeta Crédito,4,1200000,0.08,4416000,2800000,1616000,9
+1018,2024-02-20,Feb,Q1,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Arroz 5kg,María Silva,Presencial,Efectivo,75,8500,0.00,637500,382500,255000,8
+1019,2024-02-22,Feb,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Mouse Inalámbrico,Carlos Rojas,Online,Tarjeta Crédito,30,25000,0.05,712500,450000,262500,9
+1020,2024-02-25,Feb,Q1,2024,Sucursal Sur,Concepción,Biobío,Hogar,Mesa de Comedor,Pedro Muñoz,Presencial,Transferencia,4,280000,0.05,1064000,672000,392000,8
+1021,2024-03-02,Mar,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Monitor 27",Ana Pérez,Online,Tarjeta Crédito,5,450000,0.10,2025000,1350000,675000,9
+1022,2024-03-05,Mar,Q1,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Camisa Formal,Luis González,Presencial,Tarjeta Débito,15,35000,0.00,525000,262500,262500,8
+1023,2024-03-08,Mar,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Alimentos,Leche 1L,María Silva,Online,Efectivo,120,1200,0.00,144000,86400,57600,7
+1024,2024-03-10,Mar,Q1,2024,Sucursal Sur,Temuco,Araucanía,Hogar,Lámpara LED,Carlos Rojas,Presencial,Transferencia,25,25000,0.05,593750,356250,237500,9
+1025,2024-03-12,Mar,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Teclado Mecánico,Pedro Muñoz,Online,Tarjeta Crédito,10,85000,0.10,765000,510000,255000,8
+1026,2024-03-15,Mar,Q1,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Aceite 1L,Ana Pérez,Presencial,Efectivo,70,3500,0.00,245000,147000,98000,9
+1027,2024-03-18,Mar,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Ropa,Pantalón Jeans,Luis González,Online,Tarjeta Débito,20,45000,0.05,855000,450000,405000,8
+1028,2024-03-20,Mar,Q1,2024,Sucursal Sur,Concepción,Biobío,Electrónica,Audífonos BT,María Silva,Presencial,Tarjeta Crédito,18,30000,0.08,496800,270000,226800,9
+1029,2024-03-22,Mar,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Silla Ergonómica,Carlos Rojas,Online,Transferencia,6,180000,0.10,972000,583200,388800,8
+1030,2024-03-25,Mar,Q1,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Chaqueta Invierno,Pedro Muñoz,Presencial,Tarjeta Débito,10,75000,0.10,675000,405000,270000,9
+1031,2024-04-02,Abr,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Laptop Pro,Ana Pérez,Online,Tarjeta Crédito,6,1200000,0.10,6480000,4200000,2280000,9
+1032,2024-04-05,Abr,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Sofá 3 Cuerpos,Luis González,Presencial,Transferencia,3,450000,0.05,1282500,810000,472500,8
+1033,2024-04-08,Abr,Q2,2024,Sucursal Sur,Temuco,Araucanía,Ropa,Zapatillas Deportivas,María Silva,Online,Tarjeta Débito,12,55000,0.00,660000,360000,300000,9
+1034,2024-04-10,Abr,Q2,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Arroz 5kg,Carlos Rojas,Presencial,Efectivo,90,8500,0.00,765000,459000,306000,8
+1035,2024-04-12,Abr,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Mouse Inalámbrico,Pedro Muñoz,Online,Tarjeta Crédito,35,25000,0.05,831250,525000,306250,9
+1036,2024-04-15,Abr,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Monitor 27",Ana Pérez,Presencial,Tarjeta Crédito,6,450000,0.10,2430000,1620000,810000,9
+1037,2024-04-18,Abr,Q2,2024,Sucursal Sur,Concepción,Biobío,Hogar,Mesa de Comedor,Luis González,Online,Transferencia,5,280000,0.05,1330000,840000,490000,8
+1038,2024-04-20,Abr,Q2,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Camisa Formal,María Silva,Presencial,Tarjeta Débito,18,35000,0.00,630000,315000,315000,7
+1039,2024-04-22,Abr,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Lámpara LED,Carlos Rojas,Online,Transferencia,30,25000,0.05,712500,427500,285000,9
+1040,2024-04-25,Abr,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Alimentos,Leche 1L,Pedro Muñoz,Presencial,Efectivo,140,1200,0.00,168000,100800,67200,8
+1041,2024-05-02,May,Q2,2024,Sucursal Sur,Temuco,Araucanía,Electrónica,Teclado Mecánico,Ana Pérez,Online,Tarjeta Crédito,12,85000,0.10,918000,612000,306000,9
+1042,2024-05-05,May,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Audífonos BT,Luis González,Presencial,Tarjeta Crédito,22,30000,0.08,607200,330000,277200,9
+1043,2024-05-08,May,Q2,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Aceite 1L,María Silva,Online,Efectivo,85,3500,0.00,297500,178500,119000,8
+1044,2024-05-10,May,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Silla Ergonómica,Carlos Rojas,Presencial,Transferencia,7,180000,0.10,1134000,680400,453600,9
+1045,2024-05-12,May,Q2,2024,Sucursal Sur,Concepción,Biobío,Ropa,Pantalón Jeans,Pedro Muñoz,Online,Tarjeta Débito,25,45000,0.05,1068750,562500,506250,8
+1046,2024-05-15,May,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Laptop Pro,Ana Pérez,Presencial,Tarjeta Crédito,5,1200000,0.10,5400000,3500000,1900000,9
+1047,2024-05-18,May,Q2,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Chaqueta Invierno,Luis González,Online,Tarjeta Débito,12,75000,0.10,810000,486000,324000,9
+1048,2024-05-20,May,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Mouse Inalámbrico,María Silva,Presencial,Tarjeta Crédito,40,25000,0.05,950000,600000,350000,9
+1049,2024-05-22,May,Q2,2024,Sucursal Sur,Temuco,Araucanía,Alimentos,Arroz 5kg,Carlos Rojas,Online,Efectivo,100,8500,0.00,850000,510000,340000,8
+1050,2024-05-25,May,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Sofá 3 Cuerpos,Pedro Muñoz,Presencial,Transferencia,4,450000,0.05,1710000,1080000,630000,8
+1051,2024-06-02,Jun,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Monitor 27",Ana Pérez,Online,Tarjeta Crédito,7,450000,0.10,2835000,1890000,945000,9
+1052,2024-06-05,Jun,Q2,2024,Sucursal Sur,Concepción,Biobío,Hogar,Lámpara LED,Luis González,Presencial,Transferencia,35,25000,0.05,831250,498750,332500,9
+1053,2024-06-08,Jun,Q2,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Camisa Formal,María Silva,Online,Tarjeta Débito,20,35000,0.00,700000,350000,350000,8
+1054,2024-06-10,Jun,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Teclado Mecánico,Carlos Rojas,Presencial,Tarjeta Crédito,14,85000,0.10,1071000,714000,357000,9
+1055,2024-06-12,Jun,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Alimentos,Leche 1L,Pedro Muñoz,Online,Efectivo,160,1200,0.00,192000,115200,76800,8
+1056,2024-06-15,Jun,Q2,2024,Sucursal Sur,Temuco,Araucanía,Electrónica,Audífonos BT,Ana Pérez,Presencial,Tarjeta Crédito,25,30000,0.08,690000,375000,315000,9
+1057,2024-06-18,Jun,Q2,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Aceite 1L,Luis González,Online,Efectivo,95,3500,0.00,332500,199500,133000,8
+1058,2024-06-20,Jun,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Mesa de Comedor,María Silva,Presencial,Transferencia,6,280000,0.05,1596000,1008000,588000,9
+1059,2024-06-22,Jun,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Ropa,Zapatillas Deportivas,Carlos Rojas,Online,Tarjeta Débito,15,55000,0.00,825000,450000,375000,8
+1060,2024-06-25,Jun,Q2,2024,Sucursal Sur,Concepción,Biobío,Electrónica,Laptop Pro,Pedro Muñoz,Presencial,Tarjeta Crédito,4,1200000,0.10,4320000,2800000,1520000,9
+1061,2024-07-02,Jul,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Mouse Inalámbrico,Ana Pérez,Online,Tarjeta Crédito,45,25000,0.05,1068750,675000,393750,9
+1062,2024-07-05,Jul,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Hogar,Silla Ergonómica,Luis González,Presencial,Transferencia,8,180000,0.10,1296000,777600,518400,8
+1063,2024-07-08,Jul,Q3,2024,Sucursal Norte,Antofagasta,Antofagasta,Ropa,Pantalón Jeans,María Silva,Online,Tarjeta Débito,28,45000,0.05,1197000,630000,567000,9
+1064,2024-07-10,Jul,Q3,2024,Sucursal Sur,Temuco,Araucanía,Alimentos,Arroz 5kg,Carlos Rojas,Presencial,Efectivo,110,8500,0.00,935000,561000,374000,8
+1065,2024-07-12,Jul,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Monitor 27",Pedro Muñoz,Online,Tarjeta Crédito,8,450000,0.10,3240000,2160000,1080000,9
+1066,2024-07-15,Jul,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Chaqueta Invierno,Ana Pérez,Presencial,Tarjeta Débito,15,75000,0.10,1012500,607500,405000,9
+1067,2024-07-18,Jul,Q3,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Lámpara LED,Luis González,Online,Transferencia,40,25000,0.05,950000,570000,380000,9
+1068,2024-07-20,Jul,Q3,2024,Sucursal Sur,Concepción,Biobío,Electrónica,Teclado Mecánico,María Silva,Presencial,Tarjeta Crédito,16,85000,0.10,1224000,816000,408000,8
+1069,2024-07-22,Jul,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Audífonos BT,Carlos Rojas,Online,Tarjeta Crédito,30,30000,0.08,828000,450000,378000,9
+1070,2024-07-25,Jul,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Leche 1L,Pedro Muñoz,Presencial,Efectivo,180,1200,0.00,216000,129600,86400,8
+1071,2024-08-02,Ago,Q3,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Laptop Pro,Ana Pérez,Online,Tarjeta Crédito,6,1200000,0.10,6480000,4200000,2280000,9
+1072,2024-08-05,Ago,Q3,2024,Sucursal Sur,Temuco,Araucanía,Hogar,Sofá 3 Cuerpos,Luis González,Presencial,Transferencia,5,450000,0.05,2137500,1350000,787500,8
+1073,2024-08-08,Ago,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Ropa,Camisa Formal,María Silva,Online,Tarjeta Débito,25,35000,0.00,875000,437500,437500,9
+1074,2024-08-10,Ago,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Aceite 1L,Carlos Rojas,Presencial,Efectivo,105,3500,0.00,367500,220500,147000,8
+1075,2024-08-12,Ago,Q3,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Mesa de Comedor,Pedro Muñoz,Online,Transferencia,7,280000,0.05,1862000,1176000,686000,9
+1076,2024-08-15,Ago,Q3,2024,Sucursal Sur,Concepción,Biobío,Electrónica,Monitor 27",Ana Pérez,Presencial,Tarjeta Crédito,9,450000,0.10,3645000,2430000,1215000,9
+1077,2024-08-18,Ago,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Lámpara LED,Luis González,Online,Transferencia,45,25000,0.05,1068750,641250,427500,9
+1078,2024-08-20,Ago,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Zapatillas Deportivas,María Silva,Presencial,Tarjeta Débito,18,55000,0.00,990000,540000,450000,8
+1079,2024-08-22,Ago,Q3,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Mouse Inalámbrico,Carlos Rojas,Online,Tarjeta Crédito,50,25000,0.05,1187500,750000,437500,9
+1080,2024-08-25,Ago,Q3,2024,Sucursal Sur,Temuco,Araucanía,Alimentos,Arroz 5kg,Pedro Muñoz,Presencial,Efectivo,120,8500,0.00,1020000,612000,408000,8
+1081,2024-09-02,Sep,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Laptop Pro,Ana Pérez,Online,Tarjeta Crédito,7,1200000,0.10,7560000,4900000,2660000,9
+1082,2024-09-05,Sep,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Hogar,Silla Ergonómica,Luis González,Presencial,Transferencia,9,180000,0.10,1458000,874800,583200,8
+1083,2024-09-08,Sep,Q3,2024,Sucursal Norte,Antofagasta,Antofagasta,Ropa,Pantalón Jeans,María Silva,Online,Tarjeta Débito,30,45000,0.05,1282500,675000,607500,9
+1084,2024-09-10,Sep,Q3,2024,Sucursal Sur,Concepción,Biobío,Electrónica,Teclado Mecánico,Carlos Rojas,Presencial,Tarjeta Crédito,18,85000,0.10,1377000,918000,459000,9
+1085,2024-09-12,Sep,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Audífonos BT,Pedro Muñoz,Online,Tarjeta Crédito,35,30000,0.08,966000,525000,441000,9
+1086,2024-09-15,Sep,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Leche 1L,Ana Pérez,Presencial,Efectivo,200,1200,0.00,240000,144000,96000,8
+1087,2024-09-18,Sep,Q3,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Sofá 3 Cuerpos,Luis González,Online,Transferencia,6,450000,0.05,2565000,1620000,945000,9
+1088,2024-09-20,Sep,Q3,2024,Sucursal Sur,Temuco,Araucanía,Ropa,Chaqueta Invierno,María Silva,Presencial,Tarjeta Débito,12,75000,0.10,810000,486000,324000,8
+1089,2024-09-22,Sep,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Alimentos,Aceite 1L,Carlos Rojas,Online,Efectivo,110,3500,0.00,385000,231000,154000,9
+1090,2024-09-25,Sep,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Hogar,Mesa de Comedor,Pedro Muñoz,Presencial,Transferencia,8,280000,0.05,2128000,1344000,784000,9
+1091,2024-10-02,Oct,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Laptop Pro,Ana Pérez,Online,Tarjeta Crédito,8,1200000,0.10,8640000,5600000,3040000,9
+1092,2024-10-05,Oct,Q4,2024,Sucursal Sur,Concepción,Biobío,Hogar,Lámpara LED,Luis González,Presencial,Transferencia,50,25000,0.05,1187500,712500,475000,9
+1093,2024-10-08,Oct,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Ropa,Camisa Formal,María Silva,Online,Tarjeta Débito,28,35000,0.00,980000,490000,490000,8
+1094,2024-10-10,Oct,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Electrónica,Monitor 27",Carlos Rojas,Presencial,Tarjeta Crédito,10,450000,0.10,4050000,2700000,1350000,9
+1095,2024-10-12,Oct,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Alimentos,Arroz 5kg,Pedro Muñoz,Online,Efectivo,130,8500,0.00,1105000,663000,442000,8
+1096,2024-10-15,Oct,Q4,2024,Sucursal Sur,Temuco,Araucanía,Electrónica,Mouse Inalámbrico,Ana Pérez,Presencial,Tarjeta Crédito,55,25000,0.05,1306250,825000,481250,9
+1097,2024-10-18,Oct,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Silla Ergonómica,Luis González,Online,Transferencia,10,180000,0.10,1620000,972000,648000,9
+1098,2024-10-20,Oct,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Zapatillas Deportivas,María Silva,Presencial,Tarjeta Débito,20,55000,0.00,1100000,600000,500000,8
+1099,2024-10-22,Oct,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Teclado Mecánico,Carlos Rojas,Online,Tarjeta Crédito,20,85000,0.10,1530000,1020000,510000,9
+1100,2024-10-25,Oct,Q4,2024,Sucursal Sur,Concepción,Biobío,Alimentos,Leche 1L,Pedro Muñoz,Presencial,Efectivo,220,1200,0.00,264000,158400,105600,8
+1101,2024-11-02,Nov,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Laptop Pro,Ana Pérez,Online,Tarjeta Crédito,9,1200000,0.10,9720000,6300000,3420000,9
+1102,2024-11-05,Nov,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Hogar,Sofá 3 Cuerpos,Luis González,Presencial,Transferencia,7,450000,0.05,2992500,1890000,1102500,9
+1103,2024-11-08,Nov,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Ropa,Pantalón Jeans,María Silva,Online,Tarjeta Débito,35,45000,0.05,1496250,787500,708750,9
+1104,2024-11-10,Nov,Q4,2024,Sucursal Sur,Temuco,Araucanía,Electrónica,Audífonos BT,Carlos Rojas,Presencial,Tarjeta Crédito,40,30000,0.08,1104000,600000,504000,9
+1105,2024-11-12,Nov,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Monitor 27",Pedro Muñoz,Online,Tarjeta Crédito,12,450000,0.10,4860000,3240000,1620000,9
+1106,2024-11-15,Nov,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Aceite 1L,Ana Pérez,Presencial,Efectivo,125,3500,0.00,437500,262500,175000,8
+1107,2024-11-18,Nov,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Mesa de Comedor,Luis González,Online,Transferencia,9,280000,0.05,2394000,1512000,882000,9
+1108,2024-11-20,Nov,Q4,2024,Sucursal Sur,Concepción,Biobío,Ropa,Chaqueta Invierno,María Silva,Presencial,Tarjeta Débito,15,75000,0.10,1012500,607500,405000,9
+1109,2024-11-22,Nov,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Lámpara LED,Carlos Rojas,Online,Transferencia,55,25000,0.05,1306250,783750,522500,9
+1110,2024-11-25,Nov,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Camisa Formal,Pedro Muñoz,Presencial,Tarjeta Débito,30,35000,0.00,1050000,525000,525000,8
+1111,2024-12-02,Dic,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Laptop Pro,Ana Pérez,Online,Tarjeta Crédito,10,1200000,0.10,10800000,7000000,3800000,9
+1112,2024-12-05,Dic,Q4,2024,Sucursal Sur,Temuco,Araucanía,Hogar,Silla Ergonómica,Luis González,Presencial,Transferencia,12,180000,0.10,1944000,1166400,777600,9
+1113,2024-12-08,Dic,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Mouse Inalámbrico,María Silva,Online,Tarjeta Crédito,60,25000,0.05,1425000,900000,525000,9
+1114,2024-12-10,Dic,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Zapatillas Deportivas,Carlos Rojas,Presencial,Tarjeta Débito,22,55000,0.00,1210000,660000,550000,9
+1115,2024-12-12,Dic,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Monitor 27",Pedro Muñoz,Online,Tarjeta Crédito,14,450000,0.10,5670000,3780000,1890000,9
+1116,2024-12-15,Dic,Q4,2024,Sucursal Sur,Concepción,Biobío,Alimentos,Arroz 5kg,Ana Pérez,Presencial,Efectivo,150,8500,0.00,1275000,765000,510000,8
+1117,2024-12-18,Dic,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Sofá 3 Cuerpos,Luis González,Online,Transferencia,8,450000,0.05,3420000,2160000,1260000,9
+1118,2024-12-20,Dic,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Electrónica,Teclado Mecánico,María Silva,Presencial,Tarjeta Crédito,24,85000,0.10,1836000,1224000,612000,9
+1119,2024-12-22,Dic,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Alimentos,Leche 1L,Carlos Rojas,Online,Efectivo,250,1200,0.00,300000,180000,120000,8
+1120,2024-12-25,Dic,Q4,2024,Sucursal Sur,Temuco,Araucanía,Electrónica,Audífonos BT,Pedro Muñoz,Presencial,Tarjeta Crédito,45,30000,0.08,1242000,675000,567000,9
+1121,2024-01-05,Ene,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Laptop Pro,Ana Pérez,Presencial,Tarjeta Crédito,4,1200000,0.10,4320000,2800000,1520000,9
+1122,2024-01-10,Ene,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Lámpara LED,Luis González,Online,Transferencia,25,25000,0.05,593750,356250,237500,8
+1123,2024-01-15,Ene,Q1,2024,Sucursal Sur,Concepción,Biobío,Ropa,Pantalón Jeans,María Silva,Presencial,Tarjeta Débito,18,45000,0.00,810000,405000,405000,8
+1124,2024-01-20,Ene,Q1,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Arroz 5kg,Carlos Rojas,Online,Efectivo,85,8500,0.00,722500,433500,289000,8
+1125,2024-01-25,Ene,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Mouse Inalámbrico,Pedro Muñoz,Presencial,Tarjeta Crédito,30,25000,0.05,712500,450000,262500,9
+1126,2024-02-05,Feb,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Monitor 27",Ana Pérez,Online,Tarjeta Crédito,5,450000,0.10,2025000,1350000,675000,9
+1127,2024-02-12,Feb,Q1,2024,Sucursal Sur,Temuco,Araucanía,Hogar,Mesa de Comedor,Luis González,Presencial,Transferencia,4,280000,0.05,1064000,672000,392000,8
+1128,2024-02-18,Feb,Q1,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Camisa Formal,María Silva,Online,Tarjeta Débito,22,35000,0.00,770000,385000,385000,9
+1129,2024-02-25,Feb,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Silla Ergonómica,Carlos Rojas,Presencial,Transferencia,7,180000,0.10,1134000,680400,453600,9
+1130,2024-03-05,Mar,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Teclado Mecánico,Pedro Muñoz,Online,Tarjeta Crédito,12,85000,0.10,918000,612000,306000,9
+1131,2024-03-12,Mar,Q1,2024,Sucursal Sur,Concepción,Biobío,Alimentos,Aceite 1L,Ana Pérez,Presencial,Efectivo,75,3500,0.00,262500,157500,105000,8
+1132,2024-03-18,Mar,Q1,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Chaqueta Invierno,Luis González,Online,Tarjeta Débito,14,75000,0.10,945000,567000,378000,9
+1133,2024-03-25,Mar,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Audífonos BT,María Silva,Presencial,Tarjeta Crédito,28,30000,0.08,772800,420000,352800,9
+1134,2024-04-05,Abr,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Sofá 3 Cuerpos,Carlos Rojas,Online,Transferencia,4,450000,0.05,1710000,1080000,630000,9
+1135,2024-04-12,Abr,Q2,2024,Sucursal Sur,Temuco,Araucanía,Electrónica,Laptop Pro,Pedro Muñoz,Presencial,Tarjeta Crédito,5,1200000,0.10,5400000,3500000,1900000,9
+1136,2024-04-18,Abr,Q2,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Leche 1L,Ana Pérez,Online,Efectivo,150,1200,0.00,180000,108000,72000,8
+1137,2024-04-25,Abr,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Ropa,Zapatillas Deportivas,Luis González,Presencial,Tarjeta Débito,20,55000,0.00,1100000,600000,500000,9
+1138,2024-05-05,May,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Monitor 27",María Silva,Online,Tarjeta Crédito,7,450000,0.10,2835000,1890000,945000,9
+1139,2024-05-12,May,Q2,2024,Sucursal Sur,Concepción,Biobío,Hogar,Lámpara LED,Carlos Rojas,Presencial,Transferencia,40,25000,0.05,950000,570000,380000,9
+1140,2024-05-18,May,Q2,2024,Sucursal Puerto,Valparaíso,Valparaíso,Electrónica,Mouse Inalámbrico,Pedro Muñoz,Online,Tarjeta Crédito,38,25000,0.05,902500,570000,332500,9
+1141,2024-05-25,May,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Teclado Mecánico,Ana Pérez,Presencial,Tarjeta Crédito,15,85000,0.10,1147500,765000,382500,9
+1142,2024-06-05,Jun,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Alimentos,Arroz 5kg,Luis González,Online,Efectivo,100,8500,0.00,850000,510000,340000,8
+1143,2024-06-12,Jun,Q2,2024,Sucursal Sur,Temuco,Araucanía,Hogar,Mesa de Comedor,María Silva,Presencial,Transferencia,6,280000,0.05,1596000,1008000,588000,9
+1144,2024-06-18,Jun,Q2,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Pantalón Jeans,Carlos Rojas,Online,Tarjeta Débito,26,45000,0.05,1111500,585000,526500,9
+1145,2024-06-25,Jun,Q2,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Audífonos BT,Pedro Muñoz,Presencial,Tarjeta Crédito,32,30000,0.08,883200,480000,403200,9
+1146,2024-07-05,Jul,Q3,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Laptop Pro,Ana Pérez,Online,Tarjeta Crédito,7,1200000,0.10,7560000,4900000,2660000,9
+1147,2024-07-12,Jul,Q3,2024,Sucursal Sur,Concepción,Biobío,Ropa,Camisa Formal,Luis González,Presencial,Tarjeta Débito,28,35000,0.00,980000,490000,490000,8
+1148,2024-07-18,Jul,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Hogar,Silla Ergonómica,María Silva,Online,Transferencia,9,180000,0.10,1458000,874800,583200,9
+1149,2024-07-25,Jul,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Monitor 27",Carlos Rojas,Presencial,Tarjeta Crédito,9,450000,0.10,3645000,2430000,1215000,9
+1150,2024-08-05,Ago,Q3,2024,Sucursal Norte,Antofagasta,Antofagasta,Alimentos,Aceite 1L,Pedro Muñoz,Online,Efectivo,110,3500,0.00,385000,231000,154000,8
+1151,2024-08-12,Ago,Q3,2024,Sucursal Sur,Temuco,Araucanía,Hogar,Sofá 3 Cuerpos,Ana Pérez,Presencial,Transferencia,6,450000,0.05,2565000,1620000,945000,9
+1152,2024-08-18,Ago,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Electrónica,Mouse Inalámbrico,Luis González,Online,Tarjeta Crédito,48,25000,0.05,1140000,720000,420000,9
+1153,2024-08-25,Ago,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Ropa,Chaqueta Invierno,María Silva,Presencial,Tarjeta Débito,16,75000,0.10,1080000,648000,432000,9
+1154,2024-09-05,Sep,Q3,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Teclado Mecánico,Carlos Rojas,Online,Tarjeta Crédito,18,85000,0.10,1377000,918000,459000,9
+1155,2024-09-12,Sep,Q3,2024,Sucursal Sur,Concepción,Biobío,Alimentos,Leche 1L,Pedro Muñoz,Presencial,Efectivo,190,1200,0.00,228000,136800,91200,8
+1156,2024-09-18,Sep,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Hogar,Mesa de Comedor,Ana Pérez,Online,Transferencia,8,280000,0.05,2128000,1344000,784000,9
+1157,2024-09-25,Sep,Q3,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Laptop Pro,Luis González,Presencial,Tarjeta Crédito,6,1200000,0.10,6480000,4200000,2280000,9
+1158,2024-10-05,Oct,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Ropa,Zapatillas Deportivas,María Silva,Online,Tarjeta Débito,22,55000,0.00,1210000,660000,550000,9
+1159,2024-10-12,Oct,Q4,2024,Sucursal Sur,Temuco,Araucanía,Electrónica,Monitor 27",Carlos Rojas,Presencial,Tarjeta Crédito,11,450000,0.10,4455000,2970000,1485000,9
+1160,2024-10-18,Oct,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Arroz 5kg,Pedro Muñoz,Online,Efectivo,140,8500,0.00,1190000,714000,476000,9
+1161,2024-10-25,Oct,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Lámpara LED,Ana Pérez,Presencial,Transferencia,60,25000,0.05,1425000,855000,570000,9
+1162,2024-11-05,Nov,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Audífonos BT,Luis González,Online,Tarjeta Crédito,50,30000,0.08,1380000,750000,630000,9
+1163,2024-11-12,Nov,Q4,2024,Sucursal Sur,Concepción,Biobío,Ropa,Pantalón Jeans,María Silva,Presencial,Tarjeta Débito,32,45000,0.05,1368000,720000,648000,9
+1164,2024-11-18,Nov,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Electrónica,Mouse Inalámbrico,Carlos Rojas,Online,Tarjeta Crédito,65,25000,0.05,1543750,975000,568750,9
+1165,2024-11-25,Nov,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Silla Ergonómica,Pedro Muñoz,Presencial,Transferencia,12,180000,0.10,1944000,1166400,777600,9
+1166,2024-12-05,Dic,Q4,2024,Sucursal Norte,Antofagasta,Antofagasta,Alimentos,Aceite 1L,Ana Pérez,Online,Efectivo,150,3500,0.00,525000,315000,210000,8
+1167,2024-12-12,Dic,Q4,2024,Sucursal Sur,Temuco,Araucanía,Electrónica,Laptop Pro,Luis González,Presencial,Tarjeta Crédito,9,1200000,0.10,9720000,6300000,3420000,9
+1168,2024-12-18,Dic,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Camisa Formal,María Silva,Online,Tarjeta Débito,35,35000,0.00,1225000,612500,612500,9
+1169,2024-12-25,Dic,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Teclado Mecánico,Carlos Rojas,Presencial,Tarjeta Crédito,28,85000,0.10,2142000,1428000,714000,9
+1170,2024-03-15,Mar,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Sofá 3 Cuerpos,Pedro Muñoz,Online,Transferencia,5,450000,0.05,2137500,1350000,787500,9
+1171,2024-06-15,Jun,Q2,2024,Sucursal Sur,Concepción,Biobío,Electrónica,Monitor 27",Ana Pérez,Presencial,Tarjeta Crédito,8,450000,0.10,3240000,2160000,1080000,9
+1172,2024-09-15,Sep,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Chaqueta Invierno,Luis González,Online,Tarjeta Débito,18,75000,0.10,1215000,729000,486000,9
+1173,2024-12-15,Dic,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Laptop Pro,María Silva,Presencial,Tarjeta Crédito,11,1200000,0.10,11880000,7700000,4180000,9
+1174,2024-02-15,Feb,Q1,2024,Sucursal Norte,Antofagasta,Antofagasta,Alimentos,Arroz 5kg,Carlos Rojas,Online,Efectivo,95,8500,0.00,807500,484500,323000,8
+1175,2024-05-15,May,Q2,2024,Sucursal Sur,Temuco,Araucanía,Hogar,Lámpara LED,Pedro Muñoz,Presencial,Transferencia,45,25000,0.05,1068750,641250,427500,9
+1176,2024-08-15,Ago,Q3,2024,Sucursal Puerto,Valparaíso,Valparaíso,Electrónica,Audífonos BT,Ana Pérez,Online,Tarjeta Crédito,38,30000,0.08,1048800,570000,478800,9
+1177,2024-11-15,Nov,Q4,2024,Sucursal Centro,Santiago,Metropolitana,Ropa,Pantalón Jeans,Luis González,Presencial,Tarjeta Débito,38,45000,0.05,1624500,855000,769500,9
+1178,2024-04-20,Abr,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Mouse Inalámbrico,María Silva,Online,Tarjeta Crédito,42,25000,0.05,997500,630000,367500,9
+1179,2024-07-20,Jul,Q3,2024,Sucursal Sur,Concepción,Biobío,Alimentos,Leche 1L,Carlos Rojas,Presencial,Efectivo,210,1200,0.00,252000,151200,100800,8
+1180,2024-10-20,Oct,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Hogar,Mesa de Comedor,Pedro Muñoz,Online,Transferencia,10,280000,0.05,2660000,1680000,980000,9
+1181,2024-01-30,Ene,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Monitor 27",Ana Pérez,Presencial,Tarjeta Crédito,6,450000,0.10,2430000,1620000,810000,9
+1182,2024-04-30,Abr,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Ropa,Camisa Formal,Luis González,Online,Tarjeta Débito,25,35000,0.00,875000,437500,437500,8
+1183,2024-07-30,Jul,Q3,2024,Sucursal Sur,Temuco,Araucanía,Electrónica,Teclado Mecánico,María Silva,Presencial,Tarjeta Crédito,20,85000,0.10,1530000,1020000,510000,9
+1184,2024-10-30,Oct,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Aceite 1L,Carlos Rojas,Online,Efectivo,120,3500,0.00,420000,252000,168000,8
+1185,2024-02-28,Feb,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Silla Ergonómica,Pedro Muñoz,Presencial,Transferencia,9,180000,0.10,1458000,874800,583200,9
+1186,2024-05-30,May,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Laptop Pro,Ana Pérez,Online,Tarjeta Crédito,8,1200000,0.10,8640000,5600000,3040000,9
+1187,2024-08-30,Ago,Q3,2024,Sucursal Sur,Concepción,Biobío,Ropa,Zapatillas Deportivas,Luis González,Presencial,Tarjeta Débito,24,55000,0.00,1320000,720000,600000,9
+1188,2024-11-30,Nov,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Electrónica,Mouse Inalámbrico,María Silva,Online,Tarjeta Crédito,58,25000,0.05,1377500,870000,507500,9
+1189,2024-03-28,Mar,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Hogar,Sofá 3 Cuerpos,Carlos Rojas,Presencial,Transferencia,6,450000,0.05,2565000,1620000,945000,9
+1190,2024-06-28,Jun,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Alimentos,Arroz 5kg,Pedro Muñoz,Online,Efectivo,115,8500,0.00,977500,586500,391000,9
+1191,2024-09-28,Sep,Q3,2024,Sucursal Sur,Temuco,Araucanía,Electrónica,Audífonos BT,Ana Pérez,Presencial,Tarjeta Crédito,42,30000,0.08,1159200,630000,529200,9
+1192,2024-12-28,Dic,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Ropa,Pantalón Jeans,Luis González,Online,Tarjeta Débito,40,45000,0.05,1710000,900000,810000,9
+1193,2024-01-18,Ene,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Electrónica,Teclado Mecánico,María Silva,Presencial,Tarjeta Crédito,12,85000,0.10,918000,612000,306000,9
+1194,2024-04-18,Abr,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Hogar,Lámpara LED,Carlos Rojas,Online,Transferencia,35,25000,0.05,831250,498750,332500,9
+1195,2024-07-18,Jul,Q3,2024,Sucursal Sur,Concepción,Biobío,Electrónica,Monitor 27",Pedro Muñoz,Presencial,Tarjeta Crédito,10,450000,0.10,4050000,2700000,1350000,9
+1196,2024-10-18,Oct,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Alimentos,Leche 1L,Ana Pérez,Online,Efectivo,230,1200,0.00,276000,165600,110400,8
+1197,2024-02-22,Feb,Q1,2024,Sucursal Centro,Santiago,Metropolitana,Ropa,Chaqueta Invierno,Luis González,Presencial,Tarjeta Débito,14,75000,0.10,945000,567000,378000,9
+1198,2024-05-22,May,Q2,2024,Sucursal Norte,Antofagasta,Antofagasta,Electrónica,Audífonos BT,María Silva,Online,Tarjeta Crédito,36,30000,0.08,993600,540000,453600,9
+1199,2024-08-22,Ago,Q3,2024,Sucursal Sur,Temuco,Araucanía,Hogar,Mesa de Comedor,Carlos Rojas,Presencial,Transferencia,7,280000,0.05,1862000,1176000,686000,9
+1200,2024-11-22,Nov,Q4,2024,Sucursal Puerto,Valparaíso,Valparaíso,Electrónica,Laptop Pro,Pedro Muñoz,Online,Tarjeta Crédito,10,1200000,0.10,10800000,7000000,3800000,9
